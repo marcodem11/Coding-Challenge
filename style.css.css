@@ -1,0 +1,87 @@
+body{
+  background-image: url(background.jpg);
+  background-size: 100%
+}
+
+.logo{
+  width: 250px;
+  display: block;
+  margin: auto;
+}
+
+.titolo1{
+  font-size: 30px;
+  color: lime;
+}
+
+.titolo1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center-all{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.bottoni{
+  background-color: lime;
+  border: 15px solid lime;
+  display: inline-block;
+  width: 1000px
+}
+
+.bottoni{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container{
+  width: 1000px;
+  margin: auto;
+}
+
+.checkino{
+  display: inline-block;
+}
+
+.Scritte-Mono{
+  font-size: 20px;
+  color: white;
+
+}
+
+/* Scritte */
+
+.Scritte-Sotto{
+  font-size: 15px;
+  color: white;
+}
+
+
+/* Strisce */
+
+.Striscia{
+  background-color: orange;
+  border: 13px solid orange;
+  display: inline-block;
+  width: 300px
+}
+
+.Striscia2{
+  background-color: green;
+  border: 13px solid green;
+  display: inline-block;
+  width: 550px
+}
+
+.Striscia3{
+  background-color: red;
+  border: 11px solid red;
+  display: inline-block;
+  width: 80px
+}
